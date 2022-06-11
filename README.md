@@ -55,7 +55,7 @@
 2. The output is the following:
 
     ```shell
-    Starting api-server ... done
+    Creating api-server ... done
     ```
 
 
